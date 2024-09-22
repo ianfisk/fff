@@ -2,4 +2,5 @@
 .git
 node_modules
 encrypted
-index.html
+original.html
+original_backup.html
