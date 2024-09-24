@@ -1,4 +1,4 @@
-# Fall Family Festival invite page
+# Fall Family Fun Festival invite page
 
 https://ianfisk.github.io/fff/
 
